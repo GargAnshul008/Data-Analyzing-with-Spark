@@ -1,7 +1,4 @@
-# Data-Analyzing-with-Spark
-Analyzing data on local computer and Dumbo Cluster (powered by NYU) using Spark
-
-## Part 0: Introduction
+## Storage Benchmarking: Introduction
 
 You will be comparing the speed of Spark queries against
 dataframes backed be either CSV or Parquet file stores.
